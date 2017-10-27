@@ -4,7 +4,7 @@
 # 源文件
 fpkm_matrix.txt
 
-#处理过程
+# 处理过程
 
 > * 按照pseudotime升序给基因排序
 > * 删除pseudotime异常高和低的若干个时间点
